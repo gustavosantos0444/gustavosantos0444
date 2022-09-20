@@ -2,6 +2,7 @@
 - 👀 Estou interessado em aprender linguagens de programacao
 - 🌱 Estou colaborando com as aulas pensamentos computacional 
 - Ja aprendi as linguagens de Scratch e java script
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 - 📫 Voce pode me encontrar no email gustavo.sene@escola.pr.gov.br
 
 <!---
